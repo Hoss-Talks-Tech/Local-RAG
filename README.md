@@ -1,4 +1,5 @@
-Local RAG Assistant with Persistent Memory
+"Local RAG Assistant with Persistent Memory"
+
 This is a private, terminal-based assistant that doesn't just chat—it remembers. 
 It is built using Ollama and RAG, it allows you to chat with your local documents while maintaining a persistent conversation history.
 

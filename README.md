@@ -5,9 +5,9 @@ It is built using Ollama and RAG, it allows you to chat with your local document
 ---
 
 ## Features
-- ** Persistent Memory: Saves every conversation to a local `history.jsonl` file.
-- ** 100% Private: Everything runs locally on your machine. No API keys, no data leaks.
-- ** Rich Terminal UI: Beautifully formatted responses and a custom "thinking" spinner.
+- Persistent Memory: Saves every conversation to a local `history.jsonl` file.
+- 100% Private: Everything runs locally on your machine. No API keys, no data leaks.
+- Rich Terminal UI: Beautifully formatted responses and a custom "thinking" spinner.
 
 ---
 
